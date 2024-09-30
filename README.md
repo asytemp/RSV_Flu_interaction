@@ -8,8 +8,8 @@ source: https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
 * RSV data were requested from CDC’s National Respiratory and Enteric Virus Surveillance System (NREVSS) in 2021. The RSV surveillance data can currently be found at https://healthdata.gov/dataset/Respiratory-Syncytial-Virus-Laboratory-Data-NREVSS/7zgq-bp9w/data
 * Processed data that are used in this manuscript is deposited at Data_prep folder.
 
-* Sequence data was obtained from GISAID.
-* See also [here](Genetic_analysis/README.md).
+* Sequence data was obtained from GISAID. The accession number of the sequence can be found https://github.com/asytemp/RSV_Flu_interaction/tree/main/Genetic_analysis
+
 
 ## Prerequisites
 * R, and the R packages listed [here](./src/libraries.R).
