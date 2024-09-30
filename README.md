@@ -5,7 +5,8 @@ This repository contains the data and code used to analyze RSV and Flu interacti
 
 * FluView Data: accesed July 8, 2021
 source: https://gis.cdc.gov/grasp/fluview/fluportaldashboard.html
-* RSV data were requested from CDC’s National Respiratory and Enteric Virus Surveillance System (NREVSS) in 2021. These RSV surveillance data are currently available at https://healthdata.gov/dataset/Respiratory-Syncytial-Virus-Laboratory-Data-NREVSS/7zgq-bp9w/data.![image](https://github.com/user-attachments/assets/c8a9b999-420c-4a5e-b045-dc426a56429f)
+* RSV data were requested from CDC’s National Respiratory and Enteric Virus Surveillance System (NREVSS) in 2021. The RSV surveillance data can currently be found at https://healthdata.gov/dataset/Respiratory-Syncytial-Virus-Laboratory-Data-NREVSS/7zgq-bp9w/data
+* Processed data that are used in this manuscript is deposited at Data_prep folder.
 
 * Sequence data was obtained from GISAID.
 * See also [here](Genetic_analysis/README.md).
